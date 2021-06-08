@@ -1,11 +1,7 @@
 # Pokecord
 
 :bangbang: | Pokecord is currently undergoing a full rewrite—if you're looking to contribute, please be advised that I do not intend to make too many changes to the current version.
-:---: | :---
-
-[![Discord](https://img.shields.io/discord/716390832034414685?logo=discord&style=for-the-badge)](https://discord.gg/RAQjtNWzGW)
-![Python](https://img.shields.io/badge/Python-3.8-red?style=for-the-badge)
-![License](https://img.shields.io/github/license/oliver-ni/poketwo?style=for-the-badge)
+:---: | :--
 
 A Pokémon-oriented Discord bot that lets you collect pokémon. Catch pokémon in the wild, level your pokémon, compete with your friends, and more.
 
@@ -22,9 +18,9 @@ Right now, the code's still quite convoluted. I am working on refactoring and re
 I'm looking to add the following major features to the bot, in addition to QoL fixes and small updates:
 
 - Pokémon
-	- Generation 8 pokémon
+	- Generation of pokémon
 	- The rest of the forms
-	- Gender differences
+	- Differences
 	- More customizations options, like Pokéballs
 - Battling
 	- Different modes (1v1, 3v3, team battles, etc.)
@@ -36,5 +32,5 @@ I'm looking to add the following major features to the bot, in addition to QoL f
 - Other
 	- Daily/weekly quests with rewards
 	- Achievements/profile badges
-	- Egg hatching/breeding
+	- Egg hatching
 	- Generally more customization options
