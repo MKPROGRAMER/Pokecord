@@ -1,0 +1,2 @@
+# Pokecord
+Discord Bot
