@@ -3,7 +3,7 @@
 :bangbang: | Pokecord is currently undergoing a full rewrite—if you're looking to contribute, please be advised that I do not intend to make too many changes to the current version.
 :---: | :---
 
-[![Discord](https://img.shields.io/discord/716390832034414685?logo=discord&style=for-the-badge)](https://discord.gg/QyEWy4C)
+[![Discord](https://img.shields.io/discord/716390832034414685?logo=discord&style=for-the-badge)](https://discord.gg/RAQjtNWzGW)
 ![Python](https://img.shields.io/badge/Python-3.8-red?style=for-the-badge)
 ![License](https://img.shields.io/github/license/oliver-ni/poketwo?style=for-the-badge)
 
