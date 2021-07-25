@@ -12,6 +12,6 @@ I'm open to contributions. Please, however, make an issue first if you want to c
 
 Right now, the code's still quite convoluted. I am working on refactoring and reorganizing the project.
 ## Discord server 
-We have created a discord server for you all kindly join our discord servr link provided here .
+We have created a discord server for you all kindly join our discord server link provided here .
 Link :- https://discord.gg/aVn4hPTtrd
 
